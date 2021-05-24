@@ -1,2 +1,2 @@
-# MannKendall
-MK检验程序
+# 1. MK检验程函数
+# 2. SEN趋势度函数
